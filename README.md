@@ -24,8 +24,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/mobile-first-qr-code-component-using-css-flexbox-Hyl_eaJb5V)
+- [Live Site URL](https://py-chua.github.io/Frontend-mentor-QR-code-component/)
 
 ## My process
 
