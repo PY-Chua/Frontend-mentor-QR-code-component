@@ -22,7 +22,8 @@ body {
     border-radius: 15px;
     box-shadow: 0 25px 50px rgba(0, 0, 0, 0.1);
     width: 100%;
-    max-width: 288px;
+    /*max-width: 288px;*/
+    max-width: 320px;
     text-align: center;
     padding: 20px;
 }
@@ -37,7 +38,7 @@ body {
     text-align: center;
 }
 
-.card-info h4 {
+.card-info h1 {
     font-size: 1.25rem;
     color: hsl(218, 44%, 22%);
     font-weight: 700;
